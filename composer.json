@@ -1,5 +1,5 @@
 {
-    "name": "nalingia/total-records",
+    "name": "nalingia/nova-total-records-metric",
     "description": "A Laravel Nova card.",
     "keywords": [
         "laravel",
